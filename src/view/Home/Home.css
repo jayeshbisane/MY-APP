@@ -1,0 +1,19 @@
+.home-container{
+ background-color: aquamarine;
+min-height: 100vh;
+margin:0;
+padding:0;
+
+}
+.text{
+text-align: centre;
+text-align: center;
+}
+
+.india-tourism{
+    display:block;
+    margin-left: auto;
+    margin-right:auto ;
+    margin-top:50px;
+
+}
